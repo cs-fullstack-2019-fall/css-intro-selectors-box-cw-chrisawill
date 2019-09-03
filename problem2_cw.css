@@ -1,0 +1,27 @@
+/** Give the p tags a gray background, and a right margin of 10%. */
+.quote
+{
+    background-color: gray;
+    margin-right: 10%;
+}
+/** Make the class "secondParagraph" have a background color of blue, and horizontally centered on the page.*/
+.secondp
+{
+    background-color: blue;
+    text-align: center ;
+}
+/** Create selectors to set the background of the first, third, and fourth classes to pink with top and bottom padding of 10px.*/
+.pie
+{
+    color: pink;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#jib
+{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    border: dashed 3px;
+    text-align: center;
+}

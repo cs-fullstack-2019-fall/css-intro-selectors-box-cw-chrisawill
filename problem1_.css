@@ -1,0 +1,12 @@
+/** Add CSS selector to make the h2 tags blue and have a 1px border*/
+h2
+{
+    color: blue;
+    border: 1px;
+}
+/** Add a CSS selector and use it to make all instances of the word 'better' green with a ```font-weight``` of ```bold```*/
+.spic
+{
+    color: green;
+    font-weight: bold;
+}
